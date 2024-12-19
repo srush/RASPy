@@ -550,7 +550,7 @@ Given this library of functions, we can write operations to accomplish surprisin
 
 i.e. given a string "19492+23919" can we produce the correct output? 
 
-We will go through these steps, and their solutions, here. If you would rather do them on your own, we provide [a version](https://colab.research.google.com/github/srush/raspy/blob/main/Blog2.ipynb") where you can try them yourself!
+We will go through these steps, and their solutions, here. If you would rather do them on your own, we provide [a version](https://colab.research.google.com/github/srush/raspy/blob/main/Blog2.ipynb) where you can try them yourself!
 
 Before we dive in to the main task, we will do some challenges of increasing difficulty to help us build some intuitions.
 
